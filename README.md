@@ -3,7 +3,7 @@
 Atualmente desenvolvo automações web para coleta de dados e otimização de processos. Atuo com análise de dados e, no momento, estou estudando Machine Learning, com foco em regressão linear aplicada à análise preditiva.
 
 ### 🤖 Linguagens e Tecnologias
-<img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Edson-Python" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Edson-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Edson-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="Edson-tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
