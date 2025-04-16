@@ -1,4 +1,4 @@
-## Ola eu sou Edson Teixeira, analista de dados e programador Python!
+## Ola sou Edson Teixeira, analista de dados e programador Python!
 
 Atualmente desenvolvo automações web para coleta de dados e otimização de processos. Atuo com análise de dados e, no momento, estou estudando Machine Learning, com foco em regressão linear aplicada à análise preditiva.
 <div style="display: inline_block"><br>
