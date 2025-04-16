@@ -38,6 +38,6 @@ Atualmente, desenvolvo automações web para coleta de dados e otimização de p
     align="left" 
     alt="GitHub Top Languages" 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-Teixeira&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-Teixeira&theme=tokyonight&layout=compact&custom_title=Tecnologias e Linguagens" 
   />
 </p>
