@@ -4,12 +4,12 @@ Atualmente desenvolvo automações web para coleta de dados e otimização de pr
 
 ### 🤖 Linguagens e Tecnologias
 <img align="left" alt="Edson-Python" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Edson-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Edson-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-<img align="center" alt="Edson-tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-<img align="center" alt="Edson-pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-<img align="center" alt="Edson-selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-<img align="center" alt="Edson-powerbi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+<img align="left" alt="Edson-postgresql" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="left" alt="Edson-sqlite" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+<img align="left" alt="Edson-tensorflow" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+<img align="left" alt="Edson-pandas" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+<img align="left" alt="Edson-selenium" height="30" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+<img align="left" alt="Edson-powerbi" height="30" width="40" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 
   
 ---
